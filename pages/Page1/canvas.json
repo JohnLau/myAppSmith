@@ -117,7 +117,7 @@
               ],
               "shouldTruncate": false,
               "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-              "text": "I'm Page1",
+              "text": "I'm Page1 xxxx",
               "key": "efcuupzsba",
               "isDeprecated": false,
               "rightColumn": 21,
